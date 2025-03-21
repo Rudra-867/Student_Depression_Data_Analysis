@@ -25,4 +25,31 @@ The dataset consists of the following attributes:
 | **Financial Stress**           | Financial struggles affecting mental well-being. |
 | **Family History of Mental Illness** | Presence of mental health issues in the family. |
 | **Depression Score**           | Standardized measure of depression symptoms. |
+📈 Tableau Dashboard
+📌 Key Components:
+🔥 Heatmap: Relationship between academic pressure and depression levels.
+📊 Bar Chart: Depression scores by gender and age groups.
+📉 Scatter Plot: Correlation between sleep duration and depression scores.
+🎛 Filters & Interactive Controls: Explore different aspects of student mental health.
+📂 Tableau Workbook: Student Depression Data Analysis.twb
+📌 Pre-configured graphs & charts for better insights.
+🕵️ Drill-down features for detailed student depression patterns.
+📌 Interactive UI for easy data exploration.
+🔑 Key Insights & Findings
+High academic pressure is strongly linked to increased depression scores.
+Students facing financial stress exhibit higher depression levels.
+Lack of sleep correlates with increased depression symptoms.
+Family history of mental illness is a strong indicator of higher depression scores.
+Dietary habits play a role in mental well-being, with unhealthy diets correlating to higher depression levels.
+🎯 Conclusion
+This project provides a data-driven understanding of student depression, highlighting key risk factors. These insights can help institutions implement targeted mental health interventions. Future enhancements may include predictive modeling using machine learning.
+
+🚀 How to Use
+SQL Analysis: Run the provided SQL queries on the dataset.
+Tableau Visualization: Open Student Depression Data Analysis.twb in Tableau to explore the interactive dashboard.
+Extend the Project: Modify SQL queries and Tableau dashboards to derive additional insights.
+🧑‍💻 Author
+      RUDRAJEET PARIDA
+📧 Contact: prudrajeet@gmail.com
+
 
