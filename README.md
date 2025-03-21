@@ -44,11 +44,14 @@ The dataset consists of the following attributes:
 This project provides a data-driven understanding of student depression, highlighting key risk factors. These insights can help institutions implement targeted mental health interventions. Future enhancements may include predictive modeling using machine learning.
 
 #🚀 How to Use :
-## SQL Analysis: Run the provided SQL queries on the dataset.
-##Tableau Visualization: Open Student Depression Data Analysis.twb in Tableau to explore the interactive dashboard.
+# SQL Analysis: 
+Run the provided SQL queries on the dataset.
+# Tableau Visualization:
+Open Student Depression Data Analysis.twb in Tableau to explore the interactive dashboard.
  #Extend the Project: Modify SQL queries and Tableau dashboards to derive additional insights.
- ##🧑‍💻 Author
-      RUDRAJEET PARIDA
-##📧 Contact: prudrajeet@gmail.com
+
+ 
+ #🧑‍💻 Author :  RUDRAJEET PARIDA
+ # 📧 Contact: prudrajeet@gmail.com
 
 
