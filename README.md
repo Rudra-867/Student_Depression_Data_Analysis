@@ -45,8 +45,8 @@ This project provides a data-driven understanding of student depression, highlig
 
 #🚀 How to Use :
 ## SQL Analysis: Run the provided SQL queries on the dataset.
-Tableau Visualization: Open Student Depression Data Analysis.twb in Tableau to explore the interactive dashboard.
-Extend the Project: Modify SQL queries and Tableau dashboards to derive additional insights.
+##Tableau Visualization: Open Student Depression Data Analysis.twb in Tableau to explore the interactive dashboard.
+ #Extend the Project: Modify SQL queries and Tableau dashboards to derive additional insights.
  ##🧑‍💻 Author
       RUDRAJEET PARIDA
 ##📧 Contact: prudrajeet@gmail.com
