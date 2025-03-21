@@ -6,8 +6,8 @@ This project analyzes depression trends among 500+ students using **SQL** for da
 ## 🛠 Tools & Technologies Used
 - **SQL**: Data extraction, transformation, and querying.
 - **Tableau**: Data visualization and dashboard creation.
-- **DBMS**: MySQL/PostgreSQL (Specify the one used in the project).
-- **Excel/CSV**: Initial data collection and formatting (if applicable).
+- **DBMS**: SQL Server Management Studio.
+- **Excel/CSV**: Initial data collection and formatting .
 
 ## 📊 Dataset Description
 The dataset consists of the following attributes:
