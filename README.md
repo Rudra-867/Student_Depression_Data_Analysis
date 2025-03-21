@@ -25,8 +25,12 @@ The dataset consists of the following attributes:
 | **Financial Stress**           | Financial struggles affecting mental well-being. |
 | **Family History of Mental Illness** | Presence of mental health issues in the family. |
 | **Depression Score**           | Standardized measure of depression symptoms. |
-📈 Tableau Dashboard
-📌 Key Components:
+
+
+#📈 Tableau Dashboard
+
+
+ ##📌 Key Components:
 🔥 Heatmap: Relationship between academic pressure and depression levels.
 📊 Bar Chart: Depression scores by gender and age groups.
 📉 Scatter Plot: Correlation between sleep duration and depression scores.
